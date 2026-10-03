@@ -8,7 +8,7 @@ A focused flashcard studio built with plain JavaScript to practice the fundament
 
 [Mobile screenshot](docs/screenshots/mobile.png) · [Learning guide](docs/LEARNING.md) · [Checks](https://github.com/yousefrajabi06-debug/recall-studio/actions)
 
-Screenshots show the running application with fictional sample data. They are not design mockups. This repository does not currently advertise a hosted demo.
+Screenshots show the running application with fictional sample data. They are not design mockups. [Open the live Netlify app](https://yousef-recall-studio.netlify.app/).
 
 ## Why this project
 
